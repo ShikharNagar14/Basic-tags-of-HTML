@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>Hii everyone</title>
+    </head>
+<body> 
+    <h1>Good morning one and all present here</h1>
+    <h2>Good morning one and all present here</h2>
+    <h3>Good morning one and all present here</h3>
+    <h4>Good morning one and all present here</h4>
+    <h5>Good morning one and all present here</h5>
+    <h6>Good morning one and all present here</h6>
+<p>State Bank of India is an Indian multinational public sector bank and financial services statutory body headquartered in Mumbai, Maharashtra. SBI is the 43rd largest bank in the world and ranked 221st in the Fortune Global 500 list of the world's biggest corporations of 2020, being the only Indian bank on the list. </p>
+<b>State Bank of India is an Indian multinational public sector bank and financial services statutory body headquartered in Mumbai, Maharashtra. SBI is the 43rd largest bank in the world and ranked 221st in the Fortune Global 500 list of the world's biggest corporations of 2020, being the only Indian bank on the list. </b>
+<br>
+<br>
+<i>State Bank of India is an Indian multinational public sector bank and financial services statutory body headquartered in Mumbai, Maharashtra. SBI is the 43rd largest bank in the world and ranked 221st in the Fortune Global 500 list of the world's biggest corporations of 2020, being the only Indian bank on the list. </i>
+<br>
+<br>
+<u>State Bank of India is an Indian multinational public sector bank and financial services statutory body headquartered in Mumbai, Maharashtra. SBI is the 43rd largest bank in the world and ranked 221st in the Fortune Global 500 list of the world's biggest corporations of 2020, being the only Indian bank on the list. </u>
+<br>
+<br>
+<hr>
+hi all, i am shikhar nagar
+<h3>About lists...</h3>
+
+<!--Unordered list-->
+<ul style="list-style-type:circle;">
+     <li>Sunflower</li>
+     <li>rose</li> 
+     <li>marigold</li>
+</ul>     
+<ul style="list-style-type:square;">
+    <li>Sunflower</li>
+    <li>rose</li> 
+    <li>marigold</li>
+</ul>    
+<ul style="list-style-type:disc";>   
+    <li>Sunflower</li>
+    <li>rose</li> 
+    <li>marigold</li>
+ </ul>   
+    <ul style="list-style-type:none;">
+        <li>Sunflower</li>
+        <li>rose</li> 
+        <li>marigold</li>
+    </ul>
+ <hr>   
+ <!--ordered list-->
+<ol type="A">
+    <li>Sunflower</li>
+    <li>rose</li> 
+    <li>marigold</li>
+</ol>     
+<ol type="a" start="3">
+   <li>Sunflower</li>
+   <li>rose</li> 
+   <li>marigold</li>
+</ol>    
+<ul style="list-style-type:disc";>   
+   <li>Sunflower</li>
+   <li>rose</li> 
+   <li>marigold</li>
+</ul>   
+   <ul style="list-style-type:none;">
+       <li>Sunflower</li>
+       <li>rose</li> 
+       <li>marigol        
